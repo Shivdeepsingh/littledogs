@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258186177282",
+    "project_id": "littledogs-6c955",
+    "storage_bucket": "littledogs-6c955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258186177282:android:2083a3fdc09402d6bcf01b",
+        "android_client_info": {
+          "package_name": "com.littledog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258186177282-ba1nqml2dkkhr5k7l2ijv6o81pr28vij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3rjHAOWX1ZfYrLQOR1jJ07USHuBYxozg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258186177282-ba1nqml2dkkhr5k7l2ijv6o81pr28vij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
